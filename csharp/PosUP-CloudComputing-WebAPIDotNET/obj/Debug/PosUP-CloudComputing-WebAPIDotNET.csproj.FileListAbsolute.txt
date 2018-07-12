@@ -1,0 +1,201 @@
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\ApplicationInsights.config
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\PosUP-CloudComputing-WebAPIDotNET.dll.config
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\PosUP-CloudComputing-WebAPIDotNET.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\PosUP-CloudComputing-WebAPIDotNET.pdb
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csc.exe
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csc.exe.config
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csc.rsp
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csi.exe
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csi.exe.config
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csi.rsp
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.AppContext.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Console.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.IO.Compression.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Claims.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Threading.Thread.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.ValueTuple.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\vbc.exe
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\vbc.exe.config
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\vbc.rsp
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Antlr3.Runtime.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.Web.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Newtonsoft.Json.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Net.Http.Formatting.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Helpers.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Http.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Http.WebHost.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Mvc.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Optimization.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Razor.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.Razor.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\WebGrease.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Newtonsoft.Json.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Net.Http.Formatting.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Helpers.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Http.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Http.WebHost.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Mvc.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Optimization.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Razor.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.Razor.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Antlr3.Runtime.pdb
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.Web.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\obj\Debug\PosUP-CloudComputing-WebAPIDotNET.csproj.CoreCompileInputs.cache
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\obj\Debug\PosUP-CloudComputing-WebAPIDotNET.csproj.CopyComplete
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\obj\Debug\PosUP-CloudComputing-WebAPIDotNET.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\obj\Debug\PosUP-CloudComputing-WebAPIDotNET.pdb
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.Azure.NotificationHubs.dll
+C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.Azure.NotificationHubs.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\ApplicationInsights.config
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\PosUP-CloudComputing-WebAPIDotNET.dll.config
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\PosUP-CloudComputing-WebAPIDotNET.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\PosUP-CloudComputing-WebAPIDotNET.pdb
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csc.exe
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csc.exe.config
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csc.rsp
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csi.exe
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csi.exe.config
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\csi.rsp
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.AppContext.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Console.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.IO.Compression.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Claims.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Threading.Thread.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.ValueTuple.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\vbc.exe
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\vbc.exe.config
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\vbc.rsp
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Antlr3.Runtime.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.Web.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.Azure.NotificationHubs.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Newtonsoft.Json.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Net.Http.Formatting.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Helpers.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Http.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Http.WebHost.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Mvc.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Optimization.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Razor.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.Razor.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\WebGrease.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.Azure.NotificationHubs.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Newtonsoft.Json.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Net.Http.Formatting.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Helpers.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Http.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Http.WebHost.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Mvc.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Optimization.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.Razor.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Web.WebPages.Razor.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Antlr3.Runtime.pdb
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.AI.Web.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\obj\Debug\PosUP-CloudComputing-WebAPIDotNET.csprojAssemblyReference.cache
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\obj\Debug\PosUP-CloudComputing-WebAPIDotNET.csproj.CoreCompileInputs.cache
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\obj\Debug\PosUP-CloudComputing-WebAPIDotNET.csproj.CopyComplete
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\obj\Debug\PosUP-CloudComputing-WebAPIDotNET.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNET\obj\Debug\PosUP-CloudComputing-WebAPIDotNET.pdb
