@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosUP-CloudComputing-WinApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosUP-CloudComputing-WebAPIDotNET", "PosUP-CloudComputing-WebAPIDotNET\PosUP-CloudComputing-WebAPIDotNET.csproj", "{C67FFEE0-53C5-4696-A935-8A31CCF28336}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosUP-CloudComputing-WebAPIDotNetCore", "PosUP-CloudComputing-WebAPIDotNetCore\PosUP-CloudComputing-WebAPIDotNetCore.csproj", "{BEF6826A-1869-4CC7-9215-ACE2EB71543E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,8 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{27E5D439-9879-4E94-9B0B-DB6066A3227D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{27E5D439-9879-4E94-9B0B-DB6066A3227D}.Debug|Any CPU.Build.0 = Debug|x86
+		{27E5D439-9879-4E94-9B0B-DB6066A3227D}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{27E5D439-9879-4E94-9B0B-DB6066A3227D}.Debug|ARM.ActiveCfg = Debug|ARM
 		{27E5D439-9879-4E94-9B0B-DB6066A3227D}.Debug|ARM.Build.0 = Debug|ARM
 		{27E5D439-9879-4E94-9B0B-DB6066A3227D}.Debug|ARM.Deploy.0 = Debug|ARM
@@ -55,6 +59,22 @@ Global
 		{C67FFEE0-53C5-4696-A935-8A31CCF28336}.Release|x64.Build.0 = Release|Any CPU
 		{C67FFEE0-53C5-4696-A935-8A31CCF28336}.Release|x86.ActiveCfg = Release|Any CPU
 		{C67FFEE0-53C5-4696-A935-8A31CCF28336}.Release|x86.Build.0 = Release|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Debug|ARM.Build.0 = Debug|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Debug|x64.Build.0 = Debug|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Debug|x86.Build.0 = Debug|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Release|ARM.ActiveCfg = Release|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Release|ARM.Build.0 = Release|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Release|x64.ActiveCfg = Release|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Release|x64.Build.0 = Release|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Release|x86.ActiveCfg = Release|Any CPU
+		{BEF6826A-1869-4CC7-9215-ACE2EB71543E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

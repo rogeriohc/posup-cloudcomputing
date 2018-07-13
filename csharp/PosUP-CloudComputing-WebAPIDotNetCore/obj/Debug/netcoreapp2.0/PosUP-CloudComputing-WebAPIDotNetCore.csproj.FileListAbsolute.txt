@@ -1,0 +1,11 @@
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\bin\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.deps.json
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\bin\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.runtimeconfig.json
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\bin\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.runtimeconfig.dev.json
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\bin\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\bin\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.pdb
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\obj\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\obj\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.AssemblyInfoInputs.cache
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\obj\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.AssemblyInfo.cs
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\obj\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\obj\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.pdb
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WebAPIDotNetCore\obj\Debug\netcoreapp2.0\PosUP-CloudComputing-WebAPIDotNetCore.csprojAssemblyReference.cache

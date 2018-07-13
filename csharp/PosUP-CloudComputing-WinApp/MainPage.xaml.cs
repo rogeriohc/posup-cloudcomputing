@@ -100,7 +100,7 @@ namespace PosUP_CloudComputing_WinApp
             catch (Exception ex)
             {
                 MessageDialog alert = new MessageDialog(ex.Message, "Failed to register with RegisterClient");
-                alert.ShowAsync();
+                await alert.ShowAsync();
             }
         }
 

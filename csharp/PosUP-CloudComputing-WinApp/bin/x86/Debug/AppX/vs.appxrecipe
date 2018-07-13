@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>fe22e43a-8826-4a87-9c9a-4d7ccc2b2989</PackageIdentityName>
     <PackageIdentityPublisher>CN=414E2FFB-EE5F-4402-9DBA-021859683C4B</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>F2ABB8BDB3C39DB6D043B3B8494E597CEFA0BBB92A0D423A2E453EAFAC306B35</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>57181RogerioHalickiCordei.PosUP-CloudComputing-App_1.1.0.0_x86__19fqv0scshfn6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>57181RogerioHalickiCordei.PosUP-CloudComputing-App_19fqv0scshfn6!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-28T19:14:18.683</Modified>
+      <Modified>2018-07-12T18:24:06.090</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\bin\x86\Debug\PosUP-CloudComputing-WinApp.exe">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\bin\x86\Debug\PosUP-CloudComputing-WinApp.exe">
       <PackagePath>entrypoint\PosUP-CloudComputing-WinApp.exe</PackagePath>
-      <Modified>2018-06-28T19:14:18.136</Modified>
+      <Modified>2018-07-12T18:24:01.798</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rogerioc\.nuget\packages\microsoft.csharp\4.3.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -523,68 +523,68 @@
       <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
       <Modified>2014-07-30T15:12:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-06-27T17:15:33.023</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-06-12T17:26:13.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-06-12T17:26:13.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-06-12T17:26:13.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-06-12T17:26:13.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-06-12T17:26:13.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-06-12T17:26:13.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-06-12T17:26:13.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\bin\x86\Debug\PosUP-CloudComputing-WinApp.xr.xml">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\bin\x86\Debug\PosUP-CloudComputing-WinApp.xr.xml">
       <PackagePath>PosUP-CloudComputing-WinApp.xr.xml</PackagePath>
       <Modified>2018-06-28T17:34:13.360</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-06-28T19:14:17.910</Modified>
+      <Modified>2018-07-12T18:24:01.390</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-06-28T19:14:17.911</Modified>
+      <Modified>2018-07-12T18:24:01.391</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-04-20T01:01:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-28T17:34:16.012</Modified>
+      <Modified>2018-07-12T18:24:05.117</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\bin\x86\Debug\Core\PosUP-CloudComputing-WinApp.exe">
+    <AppxPackagedFile Include="C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\bin\x86\Debug\Core\PosUP-CloudComputing-WinApp.exe">
       <PackagePath>PosUP-CloudComputing-WinApp.exe</PackagePath>
-      <Modified>2018-06-28T19:14:18.677</Modified>
+      <Modified>2018-07-12T18:24:06.064</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

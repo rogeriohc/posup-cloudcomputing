@@ -1,0 +1,14 @@
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\obj\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.csprojAssemblyReference.cache
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\obj\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\obj\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.RazorAssemblyInfo.cache
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\obj\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.RazorAssemblyInfo.cs
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\obj\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.AssemblyInfoInputs.cache
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\obj\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.AssemblyInfo.cs
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\bin\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.deps.json
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\bin\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.runtimeconfig.json
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\bin\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.runtimeconfig.dev.json
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\bin\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\bin\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.pdb
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\obj\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\obj\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.dll
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\visualstudiocode\dotnetcore\PosUP-CloudComputing-ToDoWebAPI\obj\Debug\netcoreapp2.1\PosUP-CloudComputing-ToDoWebAPI.pdb

@@ -1,1 +1,1 @@
-C:\Users\rogerioc\Documents\Visual Studio 2017\Projects\PosUP-CloudComputing\PosUP-CloudComputing-WinApp\PosUP-CloudComputing-WinApp.csproj;x86
+C:\Users\rogerioc\Documents\GitHub\posup-cloudcomputing\csharp\PosUP-CloudComputing-WinApp\PosUP-CloudComputing-WinApp.csproj;x86
